@@ -1,0 +1,11 @@
+subject_id,psg_file,hyp_file,split,total_records_30s,rem_bouts,rem_epochs_30s,rem_duration_min,fs_hz,units
+SC4001,SC4001E0-PSG.edf,SC4001EC-Hypnogram.edf,Desarrollo,2650,6,125,62.5,100.0,uV
+SC4011,SC4011E0-PSG.edf,SC4011EH-Hypnogram.edf,Desarrollo,2802,8,170,85.0,100.0,uV
+SC4021,SC4021E0-PSG.edf,SC4021EH-Hypnogram.edf,Desarrollo,2804,15,163,81.5,100.0,uV
+SC4031,SC4031E0-PSG.edf,SC4031EC-Hypnogram.edf,Desarrollo,2820,10,209,104.5,100.0,uV
+SC4041,SC4041E0-PSG.edf,SC4041EC-Hypnogram.edf,Desarrollo,2570,24,196,98.0,100.0,uV
+SC4051,SC4051E0-PSG.edf,SC4051EC-Hypnogram.edf,Evaluacion,2722,3,68,34.0,100.0,uV
+SC4061,SC4061E0-PSG.edf,SC4061EC-Hypnogram.edf,Evaluacion,2770,4,102,51.0,100.0,uV
+SC4071,SC4071E0-PSG.edf,SC4071EC-Hypnogram.edf,Evaluacion,2810,11,198,99.0,100.0,uV
+SC4081,SC4081E0-PSG.edf,SC4081EC-Hypnogram.edf,Evaluacion,2796,4,131,65.5,100.0,uV
+SC4091,SC4091E0-PSG.edf,SC4091EC-Hypnogram.edf,Evaluacion,2732,17,232,116.0,100.0,uV

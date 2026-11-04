@@ -1,0 +1,22 @@
+# Compiladores locales y herramientas portables
+tools/
+
+# Archivos temporales de LaTeX / Beamer
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.synctex.gz
+
+# Archivos temporales de HTML / Python
+_temp*
+documento_ponencia_svd_rem.html
+export_doc_and_pdf.py
+export_guion_pdf.py
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
